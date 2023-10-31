@@ -6,4 +6,10 @@
 
 * Basta abrir as configurações, Rede, clicar nos três pontos, adicionar configuração de VPN, IKVE2:
 
-<img src="/public/image1.png">
+<img src="/public/image1.png" />
+
+* Para que a rede faça a autenticação corretamente, basta deixar o campo ID Remoto vazio, pra isso você deve dar um espaço no campo, pois é requerido para salvar a conexão:
+
+<img src="/public/image2.png" />
+
+* Com isso a VPN vai conseguir autenticar sem problemas, lembrando que, se no seu servidor este ID estiver configurado, será neessária a inserção dele.
